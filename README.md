@@ -6,4 +6,4 @@ Aqui tu encontrarás facilmente el mejor servicio y también si tienes dudas sob
 
 También contarás con el mejor asesoramiento a nivel técnologico
 
-![Image Alt](https://github.com/luiseduerp26/ComputerServices/blob/237b254a25162938674d304720dd8c992d4a337a/services.png)
+![Image Alt](https://github.com/luiseduerp26/ComputerService/blob/26103a29a180e4134d767b203e1745d791322aff/nuevoo.png)
